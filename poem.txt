@@ -6,4 +6,5 @@ blue
 orange
 red
 green
+yellow
 these are the colors of my rainbow
